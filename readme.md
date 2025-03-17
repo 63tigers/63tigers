@@ -1,9 +1,10 @@
-###hello.
-im cyb, short for whatever starts with cyb. i go by any pronouns but the default is they/them. im an artist musician and programmer. my main programming languages are javascript and lua. im still learning both though! i want to code professionally one day, but for now im just learning :v
+### hello.
+im cyb, short for whatever starts with cyb. i go by any pronouns but the default is they/them. im an artist musician and programmer. my main programming languages are javascript and lua. im still learning both though! i want to code professionally one day, but for now im just learning and working on my own projects. :v
+___
 all of my codes are free for taking. all i ask is that you dont claim it as your own, because while most of my code is made by me, i might use other scripts from other creators. i typically credit them, but you never know.
 but... modify and destroy *my code* however you'd like. with credit! ![image](https://tiigers.neocities.org/data/deco/pixel/bear.gif)
 ___
-####find me at
+#### find me at
 [my website](https://write.geeksforgeeks.org/),
 [artfight](https://write.geeksforgeeks.org/),
 [neocities](https://write.geeksforgeeks.org/),
