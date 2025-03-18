@@ -5,11 +5,10 @@ all of my codes are free for taking. all i ask is that you dont claim it as your
 but... modify and destroy *my code* however you'd like. with credit! ![image](https://tiigers.neocities.org/data/deco/pixel/bear.gif)
 ___
 #### find me at
-[my website](https://write.geeksforgeeks.org/),
-[artfight](https://write.geeksforgeeks.org/),
-[neocities](https://write.geeksforgeeks.org/),
+[artfight](https://artfight.net/~reigenhater),
 [fediverse](https://pawb.fun/@cyb),
 [tumblr](https://tumblr.com/astuit)
+and my website whenever i finish it, okay?
 
 ![image](https://tiigers.neocities.org/data/favi/floatzel.gif)
 
