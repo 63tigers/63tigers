@@ -9,7 +9,8 @@ ___
 [fediverse](https://pawb.fun/@cyb),
 [tumblr](https://tumblr.com/astuit)
 and my website whenever i finish it, okay?
-
+### goals
+- [] #1 huhhhhhhhh
 ![image](https://tiigers.neocities.org/data/favi/floatzel.gif)
 
 > also if you see problems with my code please tell me i can fix it. or you can! smiles.
